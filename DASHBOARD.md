@@ -1,8 +1,7 @@
-# 🏛️ NullState | A2A Integrated Node v43.0
+# 🏛️ NullState v45.0
 
-> **A2A Well-Known URI:** `http://127.0.0.1:8000/.well-known/agent-card.json`
+WELL-KNOWN URI: `http://127.0.0.1:8000/.well-known/agent-card.json`
 
-## 📇 A2A Agent Card
 ```json
 {
   "a2a_version": "1.0.0",
