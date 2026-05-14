@@ -1,7 +1,4 @@
 {
-    "agent_address": "agent1q0jvygdp0pxs23znfa6jegce23ulllhykgccpstpet0dnf7q54sfcvrkjh4",
-    "version": "26.0.0",
-    "timestamp": "Thu May 14 17:14:02 2026",
-    "repo_target": "amjadnoonbhatti-collab/NullState",
-    "permissions_active": 33
+  "version": "16.0.0",
+  "agent": "agent1q0jvygdp0pxs23znfa6jegce23ulllhykgccpstpet0dnf7q54sfcvrkjh4"
 }
