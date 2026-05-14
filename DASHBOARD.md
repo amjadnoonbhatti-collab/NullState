@@ -1,6 +1,6 @@
-# 🏛️ NullState v45.0
+# 🏛️ NullState v47.0
 
-WELL-KNOWN URI: `http://127.0.0.1:8000/.well-known/agent-card.json`
+A2A Discovery: `http://127.0.0.1:8000/.well-known/agent-card.json`
 
 ```json
 {
@@ -22,7 +22,7 @@ WELL-KNOWN URI: `http://127.0.0.1:8000/.well-known/agent-card.json`
     },
     {
       "type": "http",
-      "uri": "http://127.0.0.1:8000/submit"
+      "uri": "http://127.0.0.1:8001/submit"
     },
     {
       "type": "well-known",
