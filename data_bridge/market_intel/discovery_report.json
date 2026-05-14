@@ -1,4 +1,8 @@
 {
-  "active_intents_found": 12500,
-  "last_action": "Initial Sync"
+    "active_intents_found": 12500,
+    "high_value_peers": [
+        "agent1_cluster_alpha",
+        "agent1_cluster_beta"
+    ],
+    "last_scan": "Thu May 14 17:59:04 2026"
 }
