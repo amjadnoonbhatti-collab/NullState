@@ -1,10 +1,8 @@
-# 🏛️ NullState | A2A Integrated Node v42.0
+# 🏛️ NullState | A2A Integrated Node v43.0
 
-> **Status:** `OPERATIONAL` | **A2A Compliance:** `1.0.0`
-> **Agent Address:** `agent1qdnk0e6r0x59nfluh7fljccu2k6l9lmlfeymgj2rcaamenl7d3k92yutvam`
-> **Sync Time:** `Thu May 14 23:48:34 2026`
+> **A2A Well-Known URI:** `http://127.0.0.1:8000/.well-known/agent-card.json`
 
-## 📇 A2A Agent Card (Discovery)
+## 📇 A2A Agent Card
 ```json
 {
   "a2a_version": "1.0.0",
@@ -26,6 +24,10 @@
     {
       "type": "http",
       "uri": "http://127.0.0.1:8000/submit"
+    },
+    {
+      "type": "well-known",
+      "uri": "http://127.0.0.1:8000/.well-known/agent-card.json"
     }
   ],
   "skills": [
@@ -40,12 +42,3 @@
   ]
 }
 ```
-
-## 💰 Financial Intelligence
-| Metric | Value | Status |
-| :--- | :--- | :--- |
-| **Total Revenue** | 52.82 USDT | ✅ VERIFIED |
-| **Protocol** | `A2A-L1` | 📡 ACTIVE |
-
----
-*Autonomous A2A Node Registration: ACTIVE*
