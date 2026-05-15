@@ -1,0 +1,9 @@
+{
+  "name": "nullstate_architect",
+  "description": "Autonomous multi-protocol infrastructure & scaling engine.",
+  "protocols": [
+    "chat"
+  ],
+  "version": "70.0.0",
+  "identity": "agent1q0jvygdp0pxs23znfa6jegce23ulllhykgccpstpet0dnf7q54sfcvrkjh4"
+}
