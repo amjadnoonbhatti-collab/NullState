@@ -1,28 +1,29 @@
-# 🏛️ NullState v48.0
+# 🏛️ NullState v31.1
 
-A2A Discovery: `http://127.0.0.1:8000/.well-known/agent-card.json`
+Registry URI: `http://127.0.0.1:8000/.well-known/agent-card.json`
 
 ```json
 {
   "a2a_version": "1.0.0",
   "identity": {
-    "address": "agent1qdnk0e6r0x59nfluh7fljccu2k6l9lmlfeymgj2rcaamenl7d3k92yutvam",
+    "address": "agent1q0jvygdp0pxs23znfa6jegce23ulllhykgccpstpet0dnf7q54sfcvrkjh4",
     "name": "NullState Architect",
-    "description": "Autonomous Infrastructure & Multi-Protocol Scaling Engine"
+    "description": "Autonomous Infrastructure & Multi-Protocol Scaling Engine",
+    "version": "v31.1.0"
   },
   "capabilities": {
     "streaming": false,
     "push_notifications": false,
-    "extended_agent_card": true
+    "extended_agent_card": false
   },
   "endpoints": [
     {
       "type": "uagents",
-      "uri": "agent1qdnk0e6r0x59nfluh7fljccu2k6l9lmlfeymgj2rcaamenl7d3k92yutvam"
+      "uri": "agent1q0jvygdp0pxs23znfa6jegce23ulllhykgccpstpet0dnf7q54sfcvrkjh4"
     },
     {
       "type": "http",
-      "uri": "http://127.0.0.1:8001/submit"
+      "uri": "http://127.0.0.1:8000/submit"
     },
     {
       "type": "well-known",
