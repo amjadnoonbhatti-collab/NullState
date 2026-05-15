@@ -1,9 +1,12 @@
 {
   "name": "nullstate_architect",
-  "description": "Autonomous multi-protocol infrastructure & scaling engine.",
+  "handle": "nullstate",
+  "description": "Autonomous infrastructure engine for high-frequency financial scaling.",
   "protocols": [
     "chat"
   ],
-  "version": "70.0.0",
-  "identity": "agent1q0jvygdp0pxs23znfa6jegce23ulllhykgccpstpet0dnf7q54sfcvrkjh4"
+  "version": "85.0.0",
+  "category": "Productivity",
+  "identity": "agent1q0jvygdp0pxs23znfa6jegce23ulllhykgccpstpet0dnf7q54sfcvrkjh4",
+  "last_updated": "2026-05-15T08:51:32.568073"
 }
